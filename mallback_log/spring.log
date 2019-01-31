@@ -1846,3 +1846,21 @@ Unconditional classes:
 2019-01-29 09:44:51.371  INFO 8020 --- [http-nio-9090-exec-8] o.s.web.servlet.DispatcherServlet        : Completed initialization in 32 ms
 2019-01-29 09:44:51.624  INFO 8020 --- [http-nio-9090-exec-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
 2019-01-29 09:44:52.076  INFO 8020 --- [http-nio-9090-exec-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-29 10:36:49.628  INFO 10040 --- [main] c.zxd.mallback.MallbackApplicationTests  : Starting MallbackApplicationTests on DESKTOP-4SR8DSC with PID 10040 (started by zxd in D:\zxd\software\java\workspace\mallbackJava)
+2019-01-29 10:36:49.630  INFO 10040 --- [main] c.zxd.mallback.MallbackApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-29 10:36:51.309  INFO 10040 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-29 10:36:51.315  INFO 10040 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-29 10:36:51.376  INFO 10040 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 31ms. Found 0 repository interfaces.
+2019-01-29 10:36:52.247  INFO 10040 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1977f55d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-29 10:36:55.353  INFO 10040 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-29 10:36:57.361  INFO 10040 --- [main] c.zxd.mallback.MallbackApplicationTests  : Started MallbackApplicationTests in 8.368 seconds (JVM running for 10.495)
+2019-01-29 10:36:58.080  INFO 10040 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-29 10:37:25.255  INFO 10084 --- [main] c.zxd.mallback.MallbackApplicationTests  : Starting MallbackApplicationTests on DESKTOP-4SR8DSC with PID 10084 (started by zxd in D:\zxd\software\java\workspace\mallbackJava)
+2019-01-29 10:37:25.260  INFO 10084 --- [main] c.zxd.mallback.MallbackApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-29 10:37:27.011  INFO 10084 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-29 10:37:27.020  INFO 10084 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-29 10:37:27.090  INFO 10084 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32ms. Found 0 repository interfaces.
+2019-01-29 10:37:27.997  INFO 10084 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$572a4fb0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-29 10:37:30.541  INFO 10084 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-29 10:37:32.515  INFO 10084 --- [main] c.zxd.mallback.MallbackApplicationTests  : Started MallbackApplicationTests in 8.029 seconds (JVM running for 9.513)
+2019-01-29 10:37:33.037  INFO 10084 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
